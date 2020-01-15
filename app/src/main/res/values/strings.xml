@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">AD News</string>
+
+  <string name="hint_title">Title...</string>
+  <string name="hint_author">Author...</string>
+  <string name="button_save">Save</string>
+  <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
